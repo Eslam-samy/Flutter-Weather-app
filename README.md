@@ -31,4 +31,4 @@ A Flutter weather app that provides real-time weather information using OpenWeat
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-weather-app.git
+git clone https://github.com/Eslam-samy/Flutter-Weather-app.git
