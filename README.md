@@ -10,9 +10,9 @@ A Flutter weather app that provides real-time weather information using OpenWeat
 - Clean architecture
 - State management with Bloc [bloc](https://pub.dev/packages/flutter_bloc)
 - Date and time formatting with intl [intl](https://pub.dev/packages/intl)
-- User location retrieval with location dependency 
+- User location retrieval with location dependency [location](https://pub.dev/packages/location) 
 - Dependency injection with GetIt [GetIt](https://pub.dev/packages/get_it)
-- Path dependency for file operations
+- Path dependency for file operations [Path](https://pub.dev/packages/path) 
 - Lottie animations [lottie](https://pub.dev/packages/lottie)
 
 ## Screenshots
