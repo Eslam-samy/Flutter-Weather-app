@@ -5,15 +5,15 @@ A Flutter weather app that provides real-time weather information using OpenWeat
 ## Features
 
 - Real-time weather information
-- Caching using Sqflite
-- Network connectivity check
+- Caching using Sqflite [Sqflite](https://pub.dev/packages/sqflite)
+- Network connectivity check [connectivity](https://pub.dev/packages/connectivity_plus)
 - Clean architecture
-- State management with Bloc
-- Date and time formatting with intl
-- User location retrieval with location dependency
-- Dependency injection with GetIt
+- State management with Bloc [bloc](https://pub.dev/packages/flutter_bloc)
+- Date and time formatting with intl [intl](https://pub.dev/packages/intl)
+- User location retrieval with location dependency 
+- Dependency injection with GetIt [GetIt](https://pub.dev/packages/get_it)
 - Path dependency for file operations
-- Lottie animations
+- Lottie animations [lottie](https://pub.dev/packages/lottie)
 
 ## Screenshots
 ![screen shoot](https://github.com/Eslam-samy/Flutter-Weather-app/assets/62740501/4ca0acc4-856b-4cbc-80f4-49dbeeeb7c8c)
