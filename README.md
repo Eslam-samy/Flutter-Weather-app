@@ -24,7 +24,7 @@ A Flutter weather app that provides real-time weather information using OpenWeat
 ### Prerequisites
 
 - Flutter installed on your machine
-- sign in to get your API key [weather](https://api.tomorrow.io/v4/weather/forecast)
+- sign in to get your API key [weather](https://docs.tomorrow.io/reference/weather-data-layers)
 
 ### Setup
 
